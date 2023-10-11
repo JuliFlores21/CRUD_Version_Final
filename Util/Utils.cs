@@ -11,14 +11,14 @@ namespace CRUD_Version_Final.Util
                 IdProducto = 1,
                 Nombre= "Producto 1",
                 Descripcion="Descripcion",
-                cantidad=1
+                Cantidad=1
             },
             new Producto()
             {
                 IdProducto = 2,
                 Nombre= "Producto 2",
                 Descripcion="Descripcion",
-                cantidad=2
+                Cantidad=2
             }
         };
     }
